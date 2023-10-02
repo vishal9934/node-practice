@@ -1,0 +1,7 @@
+{
+  "todos": [
+    { "id": "3", "task": "Todo Api is completed", "isCompleted": true },
+    { "id": "1", "task": "Todo Api is completed", "isCompleted": false },
+    { "id": "2", "task": "Todo Api is completed", "isCompleted": false }
+  ]
+}
